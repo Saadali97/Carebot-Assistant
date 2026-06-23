@@ -58,4 +58,4 @@ To see detailed logs and trace the bot's behavior, use:
 rasa shell --debug
 
 
-**Nishat Jillani** - Developer
+**Saad Ali** - Developer
